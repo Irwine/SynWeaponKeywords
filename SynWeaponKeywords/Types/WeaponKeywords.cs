@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Mutagen.Bethesda;
+using Mutagen.Bethesda.WPF.Reflection.Attributes;
 namespace WeaponKeywords.Types
 {
     public struct WeaponDB

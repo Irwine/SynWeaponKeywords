@@ -2,8 +2,7 @@
   "DB": {
     "Rapier": {
       "keyword": [
-        "WeapTypeRapier",
-        "WeapTypeSword"
+        "WeapTypeRapier"
       ],
       "commonNames": [
         "rapier",
@@ -13,7 +12,7 @@
       "excludeSource": [
         "SkyrimSpearMechanic.esp"
       ],
-      "outputDescription": "une rapière",
+      "outputDescription": "a rapier",
       "animation": "OneHandSword"
     },
     "Pike": {

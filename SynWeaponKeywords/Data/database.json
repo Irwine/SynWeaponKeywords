@@ -2,7 +2,8 @@
   "DB": {
     "Rapier": {
       "keyword": [
-        "WeapTypeRapier"
+        "WeapTypeRapier",
+        "WeapTypeSword"
       ],
       "commonNames": [
         "rapier",

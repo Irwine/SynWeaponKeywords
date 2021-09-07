@@ -1,11 +1,11 @@
 {
   "DB": {
-    "Rapière": {
+    "Rapier": {
       "keyword": [
         "WeapTypeRapier"
       ],
       "commonNames": [
-        "rapière",
+        "rapier",
         "sabre"
       ],
       "exclude": [],
@@ -226,15 +226,15 @@
   },
   "includes": {
     "IWBlackStingSword": "Sting",
-    "IWCSpearbladeDagger": "Rapière",
-    "lilithslacerator": "Rapière",
-    "lilithslaceratorglow": "Rapière",
-    "lilithslaceratoralt": "Rapière",
-    "lilithslaceratoraltglow": "Rapière",
-    "lilithsthorn": "Rapière",
-    "lilithsthornglow": "Rapière",
-    "lilithsthornalt": "Rapière",
-    "lilithsthornaltglow": "Rapière",
+    "IWCSpearbladeDagger": "Rapier",
+    "lilithslacerator": "Rapier",
+    "lilithslaceratorglow": "Rapier",
+    "lilithslaceratoralt": "Rapier",
+    "lilithslaceratoraltglow": "Rapier",
+    "lilithsthorn": "Rapier",
+    "lilithsthornglow": "Rapier",
+    "lilithsthornalt": "Rapier",
+    "lilithsthornaltglow": "Rapier",
     "lilithsobliteratorhal": "Halberd",
     "DragonslayerSwordSpear": "Halberd",
     "CrucifixOfTheMadKing": "Halberd",

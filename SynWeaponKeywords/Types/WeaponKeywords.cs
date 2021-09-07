@@ -6,7 +6,7 @@ namespace WeaponKeywords.Types
     public struct WeaponDB
     {
         //Mod / main keyword
-        [SettingName("Mot clé")]
+        [SettingName("EDID")]
         public List<string> keyword;
         
         //Common names of item (partial match)
